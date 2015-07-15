@@ -1,2 +1,2 @@
 # regular-files
-with java desktod
+with java desktop
